@@ -23,7 +23,7 @@ Where costs can be optimized without harming user experience.
 Explore and clean Spotify's performance dataset.
 Identify key trends in revenue, user growth (MAUs), and costs.
 Create dedicated Tableau dashboards tailored to each stakeholder's needs.
-Provide actionable insights and recommendations
+Provide actionable insights and recommendations.
 
 
 ## Stakeholder-Driven Approach
@@ -150,10 +150,10 @@ Indicates how efficiently revenue is converted into gross profit.
 
 ## How to Use
 
-Open the cleaned dataset in Google Sheets
-Review mockups and planning documents for project context
-Access the live Tableau dashboard via the provided link
-Explore the individual stakeholder reports
+Open the cleaned dataset in Google Sheets.
+Review mockups and planning documents for project context.
+Access the live Tableau dashboard via the provided link.
+Explore the individual stakeholder reports.
 
 
 ## Tools & Skills
