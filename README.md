@@ -168,7 +168,7 @@ Explore the individual stakeholder reports.
 
 ## Author
 Nikola Dragojlović 
-Junior Data Analyst (Masterschool DA & BI April Cohort 2025)
+Junior Data Analyst (Masterschool DA & BI Track, April Cohort 2025)
 
 
 
