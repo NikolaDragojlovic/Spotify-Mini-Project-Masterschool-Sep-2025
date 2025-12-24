@@ -166,5 +166,10 @@ Explore the individual stakeholder reports.
 
 **Data Storytelling** – persona-driven insights & recommendations
 
+## Author
+Nikola Dragojlović 
+Junior Data Analyst (Masterschool DA & BI April Cohort 2025)
+
+
 
 
