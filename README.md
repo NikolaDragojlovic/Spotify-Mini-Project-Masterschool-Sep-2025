@@ -1,3 +1,6 @@
+[ Spotify Mini Project Preview](<img width="1171" height="817" alt="Screenshot_Sarah_Dashboard_screenshot" src="https://github.com/user-attachments/assets/4ca275c9-1316-41bb-b4cb-2ba0d341be95" />)
+
+
 # Spotify-Mini-Project-Masterschool-Sep-2025
 
 ## Overview 
